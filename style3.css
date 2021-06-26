@@ -1,0 +1,89 @@
+body
+{
+	margin:   ;
+}
+#banner1
+{
+	display: block;
+	height: 30px;
+	width: 100%;
+	background-color: #7fffbb;
+}
+#banner1 p
+{
+	margin: 0;
+	text-align: center;
+	position: relative;	
+}
+#banner12
+{
+	display: block;
+	height: 50px;
+	width: 100%;
+	background-color: #7fffbb;
+}
+#banner12 p
+{
+	margin: 0;
+	text-align: center;
+	position: relative;	
+}
+
+#menu
+{
+	height: 100px;
+	width: 100%;
+	position: relative;
+	background-color: #27be6e;
+}
+#menu ul
+{
+	float:  left;
+}
+
+#menu ul li
+{
+	margin-left:  40px;	
+	float:  left;
+	list-style-type: none;
+}
+#menu ul li a
+{
+	display:  inline-block;
+	background-color: #16854a;
+	height: 40px;
+	width: 150px;
+	color:  black;
+	text-decoration: none;
+	text-align: center;
+}
+
+#banner2
+{
+	display: block;
+	height: 100px;
+	width: 100%;
+	background-color: #7fffbb;
+}
+#contenuprincipal{
+	text-align: center;
+	display: block;
+	width: 90%;
+	margin:   auto;
+	background-color: rgb(198,255,255);
+}
+#footer
+{
+	text-align: center;
+	display: block;	
+	width: 100%;
+	background-color: #7fffbb;
+	height: 50px;
+}
+#footer P
+{
+	color:  #164a29;
+	font-weight: bold;
+	position: relative;	
+	top: 10px;
+}
